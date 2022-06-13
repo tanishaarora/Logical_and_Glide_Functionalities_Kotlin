@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kotlin Example</string>
+
+    <string name="Name">Name : </string>
+    <string name="Age">Age : </string>
+    <string name="City">City : </string>
+    <string name="DOB">Date of birth : </string>
+
+    <string name="title">Names</string>
+
+
+    <string-array name="SortBy">
+        <item>Sort By</item>
+        <item>Ascending by name</item>
+        <item>Descending by name</item>
+        <item>Ascending by dob</item>
+        <item>Descending by dob</item>
+    </string-array>
+
+    <string name="Country">Country</string>
+
+
+</resources>
